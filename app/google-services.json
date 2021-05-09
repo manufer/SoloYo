@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776866542138",
+    "project_id": "solo-yo-27f56",
+    "storage_bucket": "solo-yo-27f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776866542138:android:6359c819754fa11c4ffb03",
+        "android_client_info": {
+          "package_name": "com.example.soloyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776866542138-quo2k7edv72olpkov570e6cq8llnl6cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzo5EzMb0VY1f1Qz9frFONLekTZAor7t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776866542138-quo2k7edv72olpkov570e6cq8llnl6cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

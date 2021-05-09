@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solo Yo</string>
+    <string name="app_iniciar_pantalla">Iniciar Sesion</string>
+    <string name="app_registar_pantalla">Registrarse</string>
+    <string name="app_correo">correo</string>
+    <string name="app_contrasena">contrasena</string>
+    <string name="app_contrasenaConfirmar">Confirmar Contrasena</string>
+
+    <string name="app_registrarse">Registrarse</string>
+
+</resources>
